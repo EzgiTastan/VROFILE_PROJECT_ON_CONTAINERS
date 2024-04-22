@@ -1,6 +1,8 @@
 # Containerize VProfile Project
 
 This project demonstrates how to containerize a multi-service application using Docker and manage it with Vagrant for development purposes.
+![Screenshot_88](https://github.com/EzgiTastan/VROFILE_PROJECT_ON_CONTAINERS/assets/139014781/9bade40d-c458-47a3-adc9-f9f1c558419f)
+
 
 ## Introduction
 
