@@ -1,4 +1,4 @@
-# Vagrant-Dockerized-Project
+# Containerize VProfile Project
 
 This project demonstrates how to containerize a multi-service application using Docker and manage it with Vagrant for development purposes.
 
@@ -43,7 +43,7 @@ cd ROFILE_PROJECT_ON_CONTAINERS
 vagrant up
 ```
 
-4.SSH into the virtual machine:
+4. SSH into the virtual machine:
 ```
 vagrant ssh
 ```
